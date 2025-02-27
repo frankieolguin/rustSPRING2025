@@ -1,5 +1,6 @@
 fn concat_strings(s1: &String, s2: &String) -> String {
     // Your code here
+    // Adding strings must be (String + &str)
     s1.clone()+s2
 }
 
