@@ -1,0 +1,61 @@
+# These are the 50 URLs I will be checking for status
+
+# Major popular sites (1–10)
+https://www.youtube.com/
+https://github.com/
+https://www.roblox.com/
+https://www.fandango.com/
+https://leetcode.com/
+https://www.disney.com/
+https://www.facebook.com/
+https://www.reddit.com/
+https://www.utrgv.edu/
+https://www.bankofamerica.com/
+
+# Alternate paths and user profiles (11–20)
+https://www.facebook.com/disney/
+https://www.reddit.com/r/rust/
+https://github.com/frankie-dev/
+https://www.youtube.com/c/UTRGV
+https://github.com/topics/rust
+https://leetcode.com/problemset/all/
+https://www.roblox.com/discover/
+https://www.fandango.com/movie-times
+https://www.youtube.com/feed/trending
+https://www.reddit.com/user/spez/
+
+# Duplicates and variant paths (21–30)
+https://www.github.com/
+https://github.com/
+https://www.facebook.com/
+https://www.facebook.com/login/
+https://www.bankofamerica.com/
+https://www.bankofamerica.com/credit-cards/
+https://leetcode.com/explore/
+https://www.reddit.com/
+https://www.youtube.com/
+https://www.utrgv.edu/
+
+# Intentionally bad or broken links (31–40)
+https://www.thiswebsitedoesnotexistatall123.com/
+https://fake.bankofamerica.com/
+https://utrgv.eduuu/
+https://www.youtubee.com/
+https://fandangoo.com/
+https://www.roblox.comm/
+https://reddit.coom/
+https://www.git-hub.com/
+https://face-book.com/
+https://www.bofa.commm/
+
+# Other services and extras (41–50)
+https://www.linkedin.com/
+https://twitter.com/
+https://www.twitch.tv/
+https://store.steampowered.com/
+https://www.netflix.com/
+https://www.nytimes.com/
+https://www.amazon.com/
+https://www.apple.com/
+https://www.cnn.com/
+https://news.ycombinator.com/
